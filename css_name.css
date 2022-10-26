@@ -1,0 +1,54 @@
+/* Id=DI */
+
+a [href]
+#di{
+    background-color: cyan;
+    border: 2px solid black ; 
+
+
+
+}
+
+#pi{
+    background-color: cyan;
+    border: 2px solid black ; 
+
+}
+
+
+
+.pa{
+background-color: goldenrod;
+border: 2px magenta; 
+
+}
+#calendar{
+    background-color: grey;
+    color: red;
+    
+    }
+
+
+#sign_up{
+    background-color: grey;
+    color: solid red;
+    
+    }
+
+    #content_learned{
+        background-color: silver;
+        color: solid red;
+        border: goldenrod 3px;
+        }
+
+
+#si{
+background-color: brown;
+border: 2px solid black ; 
+font-size: xx-large;
+
+
+
+/*  */
+
+}
